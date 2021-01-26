@@ -1,4 +1,6 @@
-[{
+{
+  "posts": [
+    {
     "name": "Message Boards",
     "desc": "Reports and dashboards related to message boards. ",
     "slug": "messageboards",
@@ -63,4 +65,9 @@
     "desc": "reports used to confirm a story or project",
     "slug": "poc",
     "icon": "announcement"
-}]
+}
+  ]
+}
+
+
+
