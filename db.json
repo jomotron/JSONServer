@@ -1,11 +1,66 @@
+[{
+    "name": "Message Boards",
+    "desc": "Reports and dashboards related to message boards. ",
+    "slug": "messageboards",
+    "icon": "message",
+    "reports": [
+        {
+            "reportId": "e9f3105f-8eb3-4f84-b714-e16725b10056",
+            "workspaceId": "acdcc482-31fb-4084-b3fb-4483b52a0299",
+            "name": "Message Boards Dashboard",
+            "reportSlug": "boards"            
+        },
+        {
+            "reportId": "25606c0e-4b45-47a3-87f0-c27dad4527c4",
+            "workspaceId": "acdcc482-31fb-4084-b3fb-4483b52a0299",
+            "name": "User Count Explorer",
+            "reportSlug": "uce"            
+        },
+        {
+            "reportId": "6ea2db2c-5149-49ff-b5d2-4f615b14e26e",
+            "workspaceId": "acdcc482-31fb-4084-b3fb-4483b52a0299",
+            "name": "Document Stats",
+            "reportSlug": "docstats"           
+        },
+        {
+            "reportId": "6ea2db2c-5149-49ff-b5d2-4f615b14e26e",
+            "workspaceId": "acdcc482-31fb-4084-b3fb-4483b52a0299",
+            "name": "Custom Page",
+            "routeName": "custom"        
+        }
+        
+    ]
+},
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+    "name": "User Counts",
+    "desc": "Reports and dashboards related to user counts.",
+    "slug": "user-counts",
+    "icon": "supervised_user_circle",
+    "reports": [
+        {
+            "reportId": "e9f3105f-8eb3-4f84-b714-e16725b10056",
+            "workspaceId": "acdcc482-31fb-4084-b3fb-4483b52a0299",
+            "name": "Message Boards Dashboard",
+            "reportSlug": "uc-board-one"            
+        },
+        {
+            "reportId": "25606c0e-4b45-47a3-87f0-c27dad4527c4",
+            "workspaceId": "acdcc482-31fb-4084-b3fb-4483b52a0299",
+            "name": "User Count Explorer",
+            "reportSlug": "uce"            
+        }
+
+    ]
+},
+{
+    "name": "Search Reports",
+    "desc": "All reports currently in live and fully supported.",
+    "slug": "search",
+    "icon": "person_search"
+},
+{
+    "name": "Proof of Concept",
+    "desc": "reports used to confirm a story or project",
+    "slug": "poc",
+    "icon": "announcement"
+}]
