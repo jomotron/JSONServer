@@ -72,7 +72,7 @@
 }
   ],
   "recent": [
-    [{
+    {
       "id": 1,
     "DocumentID": "1",
     "Name": "Report 1",
@@ -99,7 +99,7 @@
     "Name": "Report 4",
     "Description": "Report 4 Description",
     "LastViewd": "1/1/2021"
-}]
+}
     
     ]
 }
