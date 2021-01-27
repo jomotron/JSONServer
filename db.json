@@ -11,12 +11,6 @@
             "workspaceId": "acdcc482-31fb-4084-b3fb-4483b52a0299",
             "name": "Message Boards Dashboard",
             "reportSlug": "boards"            
-        },
-        {
-            "reportId": "25606c0e-4b45-47a3-87f0-c27dad4527c4",
-            "workspaceId": "acdcc482-31fb-4084-b3fb-4483b52a0299",
-            "name": "User Count Explorer",
-            "reportSlug": "uce"            
         }
        ]
     }
