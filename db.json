@@ -1,14 +1,22 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello",
+      "name": "Message Boards",
+      "desc": "Reports and dashboards related to message boards. ",
+      "slug": "messageboards",
+      "icon": "message",
       "reports": [
         {
             "reportId": "e9f3105f-8eb3-4f84-b714-e16725b10056",
             "workspaceId": "acdcc482-31fb-4084-b3fb-4483b52a0299",
             "name": "Message Boards Dashboard",
             "reportSlug": "boards"            
+        },
+        {
+            "reportId": "25606c0e-4b45-47a3-87f0-c27dad4527c4",
+            "workspaceId": "acdcc482-31fb-4084-b3fb-4483b52a0299",
+            "name": "User Count Explorer",
+            "reportSlug": "uce"            
         }
        ]
     }
