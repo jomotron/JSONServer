@@ -1,12 +1,14 @@
 {
   "posts": [
     {
+      "id": 1,
       "name": "Message Boards",
       "desc": "Reports and dashboards related to message boards. ",
       "slug": "messageboards",
       "icon": "message",
       "reports": [
         {
+            "id": 1,
             "reportId": "e9f3105f-8eb3-4f84-b714-e16725b10056",
             "workspaceId": "acdcc482-31fb-4084-b3fb-4483b52a0299",
             "name": "Message Boards Dashboard",
