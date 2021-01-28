@@ -79,7 +79,7 @@
     "file": "file.txt",
     "author": "John",
     "stakeholder": "StakeHolder 1",
-    "importantn": false;
+    "importantn": false
     },
     {
     "id": 2,
@@ -89,7 +89,7 @@
     "file": "file2.txt",
     "author": "Eric",
     "stakeholder": "StakeHolder 2",
-    "importantn": true;
+    "importantn": true
     },
 
   
