@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "folders": [
     {
     "id": 1,
     "name": "Message Boards",
@@ -71,6 +71,29 @@
     "icon": "announcement"
 }
   ],
+  "posts": [{
+    "id": 1,
+    "name": "Report 1",
+    "desc": "Report 1 description",
+    "date": "1/27/2021",
+    "file": "file.txt",
+    "author": "John",
+    "stakeholder": "StakeHolder 1",
+    "importantn": false;
+    },
+    {
+    "id": 2,
+    "name": "Report 2",
+    "desc": "Report 2 Description",
+    "date": "1/27/2021",
+    "file": "file2.txt",
+    "author": "Eric",
+    "stakeholder": "StakeHolder 2",
+    "importantn": true;
+    },
+
+  
+    ],
   "recent": [
     {
       "id": 1,
