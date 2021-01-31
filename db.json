@@ -170,36 +170,7 @@
     "LastViewd": "1/1/2021"
 }
     
-    ],
-  "trending": [
-    {
-      "id": 1,
-    "DocumentID": "1",
-    "Name": "Report 1",
-    "Description": "Report 1 Description",
-    "LastViewd": "1/1/2021"
-},
-{
-    "id": 2,
-    "DocumentID": "2",
-    "Name": "Report 2",
-    "Description": "Report 2 Description",
-    "LastViewd": "1/1/2021"
-},
-{
-    "id": 3,
-    "DocumentID": "3",
-    "Name": "Report 3",
-    "Description": "Report 3 Description",
-    "LastViewd": "1/1/2021"
-},
-{
-    "id": 4,
-    "DocumentID": "4",
-    "Name": "Report 4",
-    "Description": "Report 4 Description",
-    "LastViewd": "1/1/2021"
-}
+    ]
     
     ]
 }
