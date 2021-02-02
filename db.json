@@ -115,31 +115,9 @@
 "TFSStoryId": "2",
 "Summary": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
 }
-],	
-
-  "posts": [{
-    "id": 1,
-    "name": "Report 1",
-    "desc": "Report 1 description",
-    "date": "1/27/2021",
-    "file": "file.txt",
-    "author": "John",
-    "stakeholder": "StakeHolder 1",
-    "importantn": false
-    },
-    {
-    "id": 2,
-    "name": "Report 2",
-    "desc": "Report 2 Description",
-    "date": "1/27/2021",
-    "file": "file2.txt",
-    "author": "Eric",
-    "stakeholder": "StakeHolder 2",
-    "importantn": true
-    }
+],
 
   
-    ],
   "recent": [
     {
       "id": 1,
