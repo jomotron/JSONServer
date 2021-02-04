@@ -126,7 +126,8 @@
 			"Developer": "Jonathan Molina",
 			"File": "file.txt",
 			"TFSStoryId": "2",
-			"Summary": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+			"Summary": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+			"Type": "Create"
 		}, {
 			"id": 2,
 			"ReportName": "Report 1",
@@ -139,7 +140,8 @@
 			"Developer": "Jonathan Molina",
 			"File": "file.txt",
 			"TFSStoryId": "1",
-			"Summary": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+			"Summary": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+			"Type": "Create"
 		},
 		{
 			"id": 3,
@@ -153,7 +155,8 @@
 			"Developer": "Jonathan Molina",
 			"File": "file.txt",
 			"TFSStoryId": "2",
-			"Summary": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+			"Summary": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+			"Type": "Create"
 		},
 		{
 			"id": 4,
@@ -167,8 +170,25 @@
 			"Developer": "Jonathan Molina",
 			"File": "file.txt",
 			"TFSStoryId": "1",
-			"Summary": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+			"Summary": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+			"Type": "Create"
+		},
+		       {
+			"id": 5,
+			"ReportName": "Report 1",
+			"ReportId": "e9f3105f-8eb3-4f84-b714-e16725b10056",
+			"WorkspaceID": "acdcc482-31fb-4084-b3fb-4483b52a0299",
+			"Slug": "boards",
+			"Folder": "messageboards",
+			"Stakeholders": [1, 2],
+			"PublishDate": "2021-01-29 13:00:00",
+			"Developer": "Jonathan Molina",
+			"File": "file.txt",
+			"TFSStoryId": "1",
+			"Summary": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+			"Type": "Update"
 		}
+		       
 
 
 
