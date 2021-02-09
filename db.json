@@ -127,7 +127,7 @@
 			"Developer": "Jonathan Molina",
 			"File": "file.txt",
 			"TFSStoryId": "1",
-			"Summary": "Reports and dashboards related to message boards."
+			"Summary": "Reports and dashboards related to message boards.",
 			"Type": "Update"
 		}, {
 			"id": 2,
