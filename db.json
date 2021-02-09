@@ -184,7 +184,7 @@
 			"WorkspaceID": "acdcc482-31fb-4084-b3fb-4483b52a0299",
 			"Slug": "boards",
 			"Folder": "messageboards",
-			"FolderName": "Message Boards",
+			"FolderName": "Message Boards", 
 			"Stakeholders": [1, 2],
 			"PublishDate": "2021-01-29 13:00:00",
 			"Developer": "Jonathan Molina",
